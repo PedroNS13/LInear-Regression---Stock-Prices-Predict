@@ -5,32 +5,32 @@ Development of a linear regression algorithm to investigate relationships around
 1. 📌 Project Overview
 2. 📊 Problem Statement
 3. ⚛️ Theorical Background
-  3.1. What's Linear Regression?
-  3.2. Simple Linear Regression
-  3.3. Multiple Linear Regression
-  3.4. Assumptions of Linear Regression
-  3.5. Evaluation Metrics (MAE, MSE, RMSE, R²)
+- What's Linear Regression?
+- Simple Linear Regression
+- Multiple Linear Regression
+- Assumptions of Linear Regression
+- Evaluation Metrics (MAE, MSE, RMSE, R²)
 4. 🗂️ Dataset Description
 5. 🧹 Data Processing
-  5.1. Handling Mission Values
-  5.2. Feature Engineering
-  5.3. Feature Scaling
-  5.4. Train-Test Split
+-  Handling Mission Values
+- Feature Engineering
+- Feature Scaling
+- Train-Test Split
 6. 📈 Exploratory Data Analysis (EDA)
-  6.1. Data Visualization
-  6.2. Correlation Analysis
-  6.3. Outliers Detection
+- Data Visualization
+- Correlation Analysis
+- Outliers Detection
 7.  🔧 Model Implementation
-   7.1. What's Linear Regression?
-   7.2. Simple Linear Regression
-   7.3. Multiple Linear Regression
+- What's Linear Regression?
+-  Simple Linear Regression
+-  Multiple Linear Regression
 8.  📊 Model Evaluation
-  8.1. Residual Analysis
-  8.2. Cross Validation
+- Residual Analysis
+- Cross Validation
 9.  🧪 Experiments & Comparisons
-  9.1. Different Features Sets
-  9.2. Model Tunning
-  9.3. Baseline Comparison
+- Different Features Sets
+-  Model Tunning
+- Baseline Comparison
 11. 🚀 Results & Insights
 12. 📚 Conclusions
 
