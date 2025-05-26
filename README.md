@@ -33,3 +33,7 @@ Development of a linear regression algorithm to investigate relationships around
   9.3. Baseline Comparison
 11. 🚀 Results & Insights
 12. 📚 Conclusions
+
+
+## 📌 Project Overview
+This project demonstrates how to use Simple and Multiple Linear Regression to predict Apple Inc. (AAPL) stock prices using historical data. It includes data collection via `yfinance`, preprocessing, feature engineering, model training, evaluation, and visualization.
