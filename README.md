@@ -1,5 +1,5 @@
 # Linear Regression: Stock Prices Predict
-Development of a linear regression algorithm to investigate relationships around Apple's stock prices in its dataset. The objective is to understand what factors can influence the stock price of this company.
+This repository explores the use of Simple and Multiple Linear Regression to model and understand the relationship between Apple Inc. (AAPL) stock prices and various financial indicators. The goal is not to create a predictive tool, but to study the linear relationships and statistical validity behind price fluctuations using historical data.
 
 ## Summary
 1. 📌 Project Overview
