@@ -37,3 +37,14 @@ Development of a linear regression algorithm to investigate relationships around
 
 ## 📌 Project Overview
 This repository explores the use of Simple and Multiple Linear Regression to model and understand the relationship between Apple Inc. (AAPL) stock prices and various financial indicators. The goal is not to create a predictive tool, but to study the linear relationships and statistical validity behind price fluctuations using historical data.
+
+## Problem Statement
+The central question of this study is: **To what extent can historical price indicators explain variations in Apple's stock closing price through linear modeling?**
+
+This involves understanding:
+- The statistical relationship between price features (e.g., moving averages, open/high/low) and the closing price.
+- The performance of linear models in representing these relationships.
+
+**Simple Linear Regression** models the relationship between one independent variable (feature) and one dependent variable (target) using a straight line:
+
+\[ y = \beta_0 + \beta_1x + \epsilon \]
