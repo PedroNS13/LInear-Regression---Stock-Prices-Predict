@@ -45,6 +45,7 @@ This involves understanding:
 - The statistical relationship between price features (e.g., moving averages, open/high/low) and the closing price.
 - The performance of linear models in representing these relationships.
 
+## Theorical Background
+### Simple Linear Regression
 **Simple Linear Regression** models the relationship between one independent variable (feature) and one dependent variable (target) using a straight line:
-
-\[ y = \beta_0 + \beta_1x + \epsilon \]
+$$\Y{i} = β{0} + β{1}X{i}
